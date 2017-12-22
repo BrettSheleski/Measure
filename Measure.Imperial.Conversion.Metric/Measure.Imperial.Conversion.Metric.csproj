@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Measure.Core\Measure.Core.csproj" />
+    <ProjectReference Include="..\Measure.Imperial\Measure.Imperial.csproj" />
+    <ProjectReference Include="..\Measure.Metric\Measure.Metric.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Measure.Metric", "Measure.M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Measure.Metric.Tests", "Measure.Metric.Tests\Measure.Metric.Tests.csproj", "{B0E66BF8-533B-4DAD-BE82-24BCA63796EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Measure.Imperial", "Measure.Imperial\Measure.Imperial.csproj", "{9D075DB8-1B94-4AAC-A6D0-0CD65526962C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Measure.Imperial.Conversion.Metric", "Measure.Imperial.Conversion.Metric\Measure.Imperial.Conversion.Metric.csproj", "{0B97CDF5-8A08-44F5-971C-B27F1F5DDE84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B0E66BF8-533B-4DAD-BE82-24BCA63796EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0E66BF8-533B-4DAD-BE82-24BCA63796EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0E66BF8-533B-4DAD-BE82-24BCA63796EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D075DB8-1B94-4AAC-A6D0-0CD65526962C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D075DB8-1B94-4AAC-A6D0-0CD65526962C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D075DB8-1B94-4AAC-A6D0-0CD65526962C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D075DB8-1B94-4AAC-A6D0-0CD65526962C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B97CDF5-8A08-44F5-971C-B27F1F5DDE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B97CDF5-8A08-44F5-971C-B27F1F5DDE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B97CDF5-8A08-44F5-971C-B27F1F5DDE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B97CDF5-8A08-44F5-971C-B27F1F5DDE84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
